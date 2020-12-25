@@ -32,3 +32,6 @@ Skills To Learn
     use the form element and its input inner elements
 
 TODO:
+
+add functionality for searching
+add misc images and make styling more accurate
